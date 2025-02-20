@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript bug related to type mismatch when passing array arguments to functions. The bug occurs because the function `greeter` expects a string argument, but an array of strings is passed.  The solution involves explicitly checking and handling the type of the argument passed to the function.
